@@ -3,7 +3,7 @@ const Gridtemplate = () =>{
         <div className="flex justify-center items-center h-screen max-w-screen-2xl m-auto p-5 bg-[#f5f5f5]">
         <div className="grid grid-cols-4  gap-4  ">
             {/* first grid */}
-              <div className="bg-[rgb(250,238,226)] text-balance text-[40px] font-bold row-span-2 rounded-2xl p-5 " >Create and schedule content
+              <div className="bg-[rgb(250,238,226)] text-balance text-[40px]  font-bold row-span-2 rounded-2xl p-5 " >Create and schedule content
                <div className="text-[#7651dc]">quicker</div>
                <img src="src/assets/illustration-create-post.webp" alt="create button" />
                </div> 
@@ -21,7 +21,7 @@ const Gridtemplate = () =>{
                 {/* fourth grid */}          
                
                 <div className="bg-white text-balance text-[40px] text-left font-bold grid gap-2 row-span-2 overflow-hidden  p-2 rounded-2xl" >
-                    <img src="../src/assets/illustration-multiple-platforms.webp" alt="insta twitter id's" className="ml-16  h-16 w-auto"/>
+                    <img src="src/assets/illustration-multiple-platforms.webp" alt="insta twitter id's" className="ml-16  h-16 w-auto"/>
                     Manage multiple accounts and platforms.</div>
                 {/* fifth grid */} 
                 <div className="bg-[#ffcc69] text-balance text-xl overflow-hidden text-[40px] ml-16 font-bold leading-[40px] text-left pt-16 font-boldleading-[35px] grid items-end pl-2 pr-0 row-span-2 rounded-2xl">Maintain a consistent posting schedule
