@@ -14,14 +14,14 @@ const Gridtemplate = () =>{
                 <div className="text-lg font-medium"> Over 4,000 5-star reviews</div>
                 </div>
                   {/* third grid */}
-              <div className="bg-[#dcd1fc] row-span-3 text-left font-extrabold text-[30px] p-5 overflow-hidden rounded-2xl">Schedule to social media
-              <img src="src/assets/3rdimage.png" alt="grapline" className="w-56 h-80 ml-[60px] " />
+              <div className="bg-[#dcd1fc] row-span-3 text-left font-extrabold text-[50px] p-5 overflow-hidden rounded-2xl">Schedule to social media
+              <img src="src/assets/3rdimage.png" alt="grapline" className=" w-96 h-96 ml-[90px] " />
               <div className="text-[25px] font-normal pt-5">optimize not timings to content publish </div>
               </div>   
                 {/* fourth grid */}          
                
                 <div className="bg-white text-balance text-[40px] text-left font-bold grid gap-2 row-span-2 overflow-hidden  p-2 rounded-2xl" >
-                    <img src="src/assets/illustration-multiple-platforms.webp" alt="insta twitter id's" className="ml-16  h-16 w-auto"/>
+                    <img src="../src/assets/illustration-multiple-platforms.webp" alt="insta twitter id's" className="ml-16  h-16 w-auto"/>
                     Manage multiple accounts and platforms.</div>
                 {/* fifth grid */} 
                 <div className="bg-[#ffcc69] text-balance text-xl overflow-hidden text-[40px] ml-16 font-bold leading-[40px] text-left pt-16 font-boldleading-[35px] grid items-end pl-2 pr-0 row-span-2 rounded-2xl">Maintain a consistent posting schedule
