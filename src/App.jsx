@@ -1,5 +1,6 @@
 
 import './App.css'
+
 import Gridtemplate from './Gridtemplate'
 
 function App() {
@@ -9,6 +10,7 @@ function App() {
     
       <div>
         <Gridtemplate/>
+        
       </div>
    
   )
