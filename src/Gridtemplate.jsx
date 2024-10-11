@@ -3,7 +3,7 @@ const Gridtemplate = () =>{
         <div className="flex justify-center items-center h-screen max-w-screen-xl m-auto p-20 bg-[#f5f5f5]">
         <div className="grid grid-cols-4  gap-4  ">
             {/* first grid */}
-              <div className="bg-[rgb(250,238,226)]  text-[35px] leading-9 font-dm   grid row-span-2 rounded-2xl pt-20 pl-8 " ><div >Create and schedule content<i className="text-[#7651dc]  grid ">quicker</i></div>
+              <div className="bg-[#faeee2]  text-[35px] leading-9 font-dm   grid row-span-2 rounded-2xl pt-20 pl-8 " ><div >Create and schedule content<i className="text-[#7651dc]  grid ">quicker</i></div>
               
                <img src="/assets/illustration-create-post.webp" alt="create button " className="w-[200px] h-[100px]"  />
                </div> 
