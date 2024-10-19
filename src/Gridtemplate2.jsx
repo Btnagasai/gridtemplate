@@ -32,7 +32,7 @@ function Gridtemplate2() {
                     Write your content using AI.
                     <img src="/assets/fourth.png" alt="user chat" className="w-full lg:w-[350px] h:full lg:h-[350px] mt-5" />
                 </div>
-                <div className="bg-white text-left text-[25px] sm:text-[30px] lg:text-[30px] font-bold p-4 col-span rounded-2xl">
+                <div className="bg-white text-left text-[25px] sm:text-[30px] lg:text-[30px] font-bold p-4  rounded-2xl">
                     <div className="grid items-center">
                         <img
                             src="/assets/illustration-multiple-platforms.webp"

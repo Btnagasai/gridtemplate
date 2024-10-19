@@ -10,8 +10,8 @@ function App() {
   return (
     
       <div>
-        {/* <Gridtemplate/> */}
-        <Gridtemplate2/>
+        <Gridtemplate/>
+        {/* <Gridtemplate2/> */}
       </div>
    
   )
